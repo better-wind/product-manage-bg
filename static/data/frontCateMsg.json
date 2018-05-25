@@ -1,0 +1,18 @@
+{
+  "code":"1",
+  "data":{
+    "image":"222222",
+    "isAvailable":1,
+    "isGgj": true,
+    "isHighlight":1,
+    "isHot":1,
+    "isHqbs": true,
+    "isMsms": true,
+    "isShowBrand":1,
+    "name":"测试",
+    "parentId": 0,
+    "sortMethod":1,
+    "sortOrder":"2222",
+    "tag":""
+  }
+}

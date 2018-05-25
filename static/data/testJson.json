@@ -1,0 +1,74 @@
+{
+  "id":,//销售商品id
+  "uniqueCode":,//销售商品码
+  "channel":,//渠道
+  "saleTypeId":,//渠道销售类型
+  "baseGoodsId":,//基本商品id
+  "sync":{
+    "":
+  },// 关联基本商品同步属性快
+  "categoryId":,//类目id
+  "longTitle":,//销售长名称
+  "shortTitle":,//销售短名称
+  "sellingPoint":,//卖点文案
+  "propertys":[{
+    "propertyNameId":"",
+    "propertyName":"",
+    "propertyPairId":,//属性对id
+    "propertyType":,//属性类型，1关键属性，2销售属性，3商品属性
+    "propertyValue"://属性值(如果有自定义属性)
+  }],//销售商品属性集合
+  "saleUnit":[{
+    "id":,//销售单元id
+    "unitCode":,//销售单元码
+    "price":,//售价
+    "type":,//1N件装2组合装
+    "status":,//0停售1可售
+    "unitProperty":[{
+      "id": 84083,
+      "propertyNameId": 353,
+      "propertyValueId": 3357,
+      "pnName": "口味",
+      "pvName": "半干葡萄酒"
+    }],//销售单元属性集合
+    "unitSKU":[{
+      "id":,//销售单元sku详情表id
+      "baseGoodsId":,//基本商品id
+      "skuId":,//skuId
+      "price":,//销售价
+      "count":1,//件数
+      "properties": [{
+        "id": 84083,
+        "propertyNameId": 353,
+        "propertyValueId": 3357,
+        "pnName": "口味",
+        "pvName": "半干葡萄酒"
+      }]
+    }],//unitSUK集合
+  }],//
+  "deliverArea":{
+    "id":,//发货信息表id
+    "deliverAreaId":,//商家发货地id
+    "sellerDeliverAreaTemplateId"://商家配送地区模板id
+  },//发货信息
+  "saleUnitImage":[{
+    "id":,//sku主图id
+    "propertyPairId":,//图片属性
+    "url":,//地址
+    "width":,//图款
+    "height":,//图高
+    "sortOrder"://排序 大到小
+  }],//sku主图
+  "saleGoodsImage":[{
+    "id":,//sku主图id
+    "url":,//地址
+    "type":,//1图片2视频
+    "width":,//图款
+    "height":,//图高
+    "sortOrder"://排序 大到小
+  }],//销售商品主图
+  "detail":{
+    "id":,//详情id
+    "detail"://详情内容
+  }//销售商品详情
+}

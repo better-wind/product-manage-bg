@@ -1,0 +1,22 @@
+{
+  "code":"1",
+  "data":{
+    "rows":[
+      {
+        "id": 123,
+        "propertyNameId": 1,
+        "propertyValueId":234,
+        "pnName":"颜色",
+        "pvName":"红色"
+      },
+      {
+        "id": 123,
+        "propertyNameId": 12,
+        "propertyValueId":456,
+        "pnName":"颜色",
+        "pvName":"黄色"
+      }
+    ]
+  },
+  "total":80
+}

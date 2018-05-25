@@ -1,0 +1,8 @@
+$base-space:10px;
+$primary-color:#fb4b4d;
+@mixin hlh($s1,$s2) {
+  height: $s1;
+  line-height: $s1;
+  text-align: $s2;
+  overflow: hidden;
+}

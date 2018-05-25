@@ -1,0 +1,31 @@
+{
+  "code":"1",
+  "data":{
+    "rows":[
+      {
+        "id": 123,
+        "name": "品牌",
+        "isKeyProperty": true,
+        "isSellProperty": true,
+        "isGoodsProperty": true,
+        "isRequired": true,
+        "inputType": 1,
+        "modifyType": 2,
+        "valueCount": 222
+      },
+      {
+        "id": 123,
+        "name": "123344",
+        "isKeyProperty": false,
+        "isSellProperty": false,
+        "isGoodsProperty": true,
+        "isRequired": false,
+        "inputType": 2,
+        "modifyType": 1,
+        "valueCount": 333
+      }
+    ],
+    "total":80
+  }
+}
+

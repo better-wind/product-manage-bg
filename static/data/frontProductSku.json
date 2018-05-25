@@ -1,0 +1,38 @@
+{
+  "code":"1",
+  "data":[
+    {
+      "skuCode": "1_3",
+      "sellerMainId": 1,
+      "baseGoodsName": "测试看看",
+      "sellerMainName": null,
+      "barcode": "bcode3",
+      "uniqueCode": null,
+      "marketPrice": 1500,
+      "retailPrice": 1400,
+      "costPrice": 200,
+      "grossWeight": 100,
+      "status": 1,
+      "properties": [
+        {
+          "id": 84083,
+          "propertyNameId": 353,
+          "propertyValueId": 3357,
+          "pnName": "口味",
+          "pvName": "半干葡萄酒"
+        }
+      ],
+      "deliverAreas": [
+        {
+          "id": 45,
+          "skuId": 3,
+          "deliverAreaId": 1904,
+          "code": "3-code",
+          "sellerMainId": null,
+          "sellerMainName": null
+        }
+      ],
+      "id": 3
+    }
+  ]
+}

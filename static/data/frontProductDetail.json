@@ -1,0 +1,275 @@
+{
+  "code":"1",
+  "data":{
+    "categoryId":3172,
+    "longTitle": "长标题",
+    "shortTitle": "短标题",
+    "sellingPoint": "卖点啊",
+    "properties":[
+      {
+        "inputType": 1,
+        "isRequired": true,
+        "propertyName": "不存在",
+        "propertyNameId": 21,
+        "propertyPairs": [
+          {
+            "id":1,
+            "propertyNameId":21,
+            "pnName":"品牌",
+            "propertyValueId":2000,
+            "pvName":"卡乐比1"
+          }
+        ],
+        "propertyType": 1
+      },
+      {
+        "inputType": 2,
+        "isRequired": true,
+        "propertyName": "多选可自定义",
+        "propertyNameId": 4,
+        "propertyPairs": [
+          {
+            "id":1,
+            "propertyNameId":4,
+            "pnName":"品牌",
+            "propertyValueId":2000,
+            "pvName":"卡乐比1"
+          },
+          {
+            "id":1,
+            "propertyNameId":4,
+            "pnName":"品牌",
+            "propertyValueId":2000,
+            "pvName":"我是卡乐比1"
+          }
+        ],
+        "propertyType": 1
+      },
+      {
+        "inputType": 2,
+        "isRequired": false,
+        "propertyName": "品牌3",
+        "propertyNameId": 22,
+        "propertyPairs": [
+          {
+            "id":1,
+            "propertyNameId":22,
+            "pnName":"品牌",
+            "propertyValueId":2000,
+            "pvName":"卡乐比1"
+          }
+        ],
+        "propertyType": 3
+      },
+      {
+        "inputType": 4,
+        "isRequired": false,
+        "propertyName": "颜色",
+        "propertyNameId": 102,
+        "propertyPairs": [
+          {
+            "id":4,
+            "propertyNameId":102,
+            "pnName":"颜色",
+            "propertyValueId":2003,
+            "pvName":"红色"
+          }
+        ],
+        "propertyType": 2
+      },
+      {
+        "inputType": 4,
+        "isRequired": false,
+        "propertyName": "尺码",
+        "propertyNameId": 101,
+        "propertyPairs": [
+          {
+            "id":4,
+            "propertyNameId":101,
+            "pnName":"尺寸",
+            "propertyValueId":2003,
+            "pvName":"S"
+          },
+          {
+            "id":4,
+            "propertyNameId":101,
+            "pnName":"尺寸",
+            "propertyValueId":2003,
+            "pvName":"L"
+          }
+        ],
+        "propertyType": 2
+      },
+      {
+        "inputType": 4,
+        "isRequired": false,
+        "propertyName": "材质",
+        "propertyNameId": 100,
+        "propertyPairs": [
+          {
+            "id":4,
+            "propertyNameId":100,
+            "pnName":"材质",
+            "propertyValueId":3003,
+            "pvName":"布"
+          }
+        ],
+        "propertyType": 2
+      }
+    ],
+    "deliverArea": {
+      "id": 17,
+      "deliverAreaId": 1904,
+      "sellerDeliverAreaTemplateId": 1
+    },
+    "saleUnit":[
+      {
+        "id":1,
+        "name":"",
+        "unitCode":"",
+        "price":"",
+        "type":"",
+        "status":1,
+        "unitProperty":[
+          {
+            "id": 84083,
+            "propertyNameId":100,
+            "pnName":"材质",
+            "pvName":"布"
+          },
+          {
+            "id": 84083,
+            "propertyNameId":101,
+            "pnName":"尺码",
+            "pvName":"S"
+          },
+          {
+            "id": 84083,
+            "propertyNameId":102,
+            "pnName":"颜色",
+            "pvName":"红色"
+          }
+        ],
+        "unitSKU":[
+          {
+          "id":"1",
+          "baseGoodsId":"1",
+          "skuId":"2",
+          "price":"3",
+          "marketPrice":"5",
+          "retailPrice":"6",
+          "costPrice":"7",
+          "count":111111,
+           "status":2,
+          "properties": [{
+            "id": 84083,
+            "propertyNameId": 353,
+            "propertyValueId": 3357,
+            "pnName": "红色",
+            "pvName": "红色"
+          },
+            {
+              "id": 84083,
+              "propertyNameId": 353,
+              "propertyValueId": 3357,
+              "pnName": "红色",
+              "pvName": "S"
+            }]
+        },
+          {
+            "id":"1",
+            "baseGoodsId":"1",
+            "skuId":"2",
+            "price":"3",
+            "marketPrice":"5",
+            "retailPrice":"6",
+            "costPrice":"7",
+            "count":2222222,
+            "status":2,
+            "properties": [{
+              "id": 84083,
+              "propertyNameId": 353,
+              "propertyValueId": 3357,
+              "pnName": "口味",
+              "pvName": "红色"
+            }]
+          }
+        ]
+      },
+      {
+        "id":1,
+        "name":"",
+        "unitCode":"",
+        "price":"",
+        "type":"",
+        "status":1,
+        "unitProperty":[
+          {
+            "id": 84083,
+            "propertyNameId":100,
+            "pnName":"材质",
+            "pvName":"布"
+          },
+          {
+            "id": 84083,
+            "propertyNameId":101,
+            "pnName":"尺码",
+            "pvName":"L"
+          },
+          {
+            "id": 84083,
+            "propertyNameId":102,
+            "pnName":"颜色",
+            "pvName":"红色"
+          }
+        ],
+        "unitSKU":[
+          {
+            "id":"1",
+            "baseGoodsId":"1",
+            "skuId":"2",
+            "price":"3",
+            "marketPrice":"5",
+            "retailPrice":"6",
+            "costPrice":"7",
+            "status":1,
+            "count":1,
+            "properties": [{
+              "id": 84083,
+              "propertyNameId": 353,
+              "propertyValueId": 3357,
+              "pnName": "口味",
+              "pvName": "红色"
+            }]
+          }
+        ]
+      }
+    ],
+    "detail": {
+      "id": 16,
+      "detail": "旺旺，有错出了"
+    },
+    "saleGoodsImages": [
+      {
+        "id": 80,
+        "saleGoodsId": 24,
+        "url": "https://img.gegejia.com/product/2e53b65976c83.jpg",
+        "type": 1,
+        "width": 640,
+        "height": 640,
+        "sortOrder": 5
+      }
+    ],
+    "saleUnitImages": [
+      {
+        "id": 76,
+        "saleGoodsId": 24,
+        "url": "https://img.gegejia.com/2e525b2c7eb95.jpg!v1product",
+        "type": null,
+        "width": 640,
+        "height": 640,
+        "sortOrder": 1
+      }
+    ]
+  }
+}

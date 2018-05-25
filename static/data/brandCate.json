@@ -1,0 +1,23 @@
+{
+  "code":"1",
+  "data":{
+    "rows":[
+      {
+        "firstCategoryName":"一级类目",
+        "secondCategoryName":"二级类目",
+        "thirdCategoryName":"三级类目",
+        "fourthCategoryId":"1",
+        "fourthCategoryName":"四级类目"
+      },
+      {
+        "firstCategoryName":"一级类目",
+        "secondCategoryName":"二级类目",
+        "thirdCategoryName":"三级类目",
+        "fourthCategoryId":"2",
+        "fourthCategoryName":"四级类目二"
+      }
+    ],
+    "total":80
+  }
+}
+

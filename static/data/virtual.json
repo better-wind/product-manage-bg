@@ -1,0 +1,94 @@
+{
+  "code":"1",
+  "data":{
+    "rows":[
+      {
+        "id": 111,
+        "saleUnitCode": "U12",
+        "properties": [
+          {
+            "id":2000,
+            "propertyNameId":1000,
+            "pnName":"面值",
+            "propertyValueId":2000,
+            "pvName":"20"
+          },
+          {
+            "id":2000,
+            "propertyNameId":1000,
+            "pnName":"运营商",
+            "propertyValueId":2000,
+            "pvName":"移动"
+          },
+          {
+            "id":2000,
+            "propertyNameId":1000,
+            "pnName":"省份",
+            "propertyValueId":2000,
+            "pvName":"浙江"
+          },
+          {
+            "id":2000,
+            "propertyNameId":1000,
+            "pnName":"充值范围",
+            "propertyValueId":2000,
+            "pvName":"100"
+          },
+          {
+            "id":2000,
+            "propertyNameId":1000,
+            "pnName":"适用范围",
+            "propertyValueId":2000,
+            "pvName":"200"
+          }
+        ],
+        "status":1,
+        "price":2000
+      },
+      {
+        "id": 222,
+        "saleUnitCode": "U12",
+        "properties": [
+          {
+            "id":2000,
+            "propertyNameId":1000,
+            "pnName":"面值",
+            "propertyValueId":2000,
+            "pvName":"20"
+          },
+          {
+            "id":2000,
+            "propertyNameId":1000,
+            "pnName":"运营商",
+            "propertyValueId":2000,
+            "pvName":"移动"
+          },
+          {
+            "id":2000,
+            "propertyNameId":1000,
+            "pnName":"省份",
+            "propertyValueId":2000,
+            "pvName":"浙江"
+          },
+          {
+            "id":2000,
+            "propertyNameId":1000,
+            "pnName":"充值范围",
+            "propertyValueId":2000,
+            "pvName":"100"
+          },
+          {
+            "id":2000,
+            "propertyNameId":1000,
+            "pnName":"适用范围",
+            "propertyValueId":2000,
+            "pvName":"200"
+          }
+        ],
+        "status":0,
+        "price":4000
+      }
+    ],
+    "total":80
+  }
+}

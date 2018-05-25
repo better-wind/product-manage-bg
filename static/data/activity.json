@@ -1,0 +1,26 @@
+{
+  "code":"1",
+  "data":{
+    "rows":[
+      {
+        "id":1,
+        "mold":0,
+        "type":	1,
+        "name":"活动名称",
+        "applyStartTime":	"2017-12-12",
+        "applyEndTime":	"2017-12-12",
+        "activityStartTime":"2017-12-12",
+        "activityEndTime":"2017-12-12",
+        "frequency":1,
+        "timeDesc":	"活动时间描述",
+        "desc":"活动描述",
+        "joinCount":19,
+        "passCount":20,
+        "denyCount":21
+      }
+
+    ],
+    "total":80
+  }
+}
+

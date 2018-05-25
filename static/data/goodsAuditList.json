@@ -1,0 +1,56 @@
+{
+  "code":"1",
+  "data":{
+    "total":500,
+    "rows":[
+      {
+        "id": 1,
+        "createTime":"2017-04-04",
+        "status": 1 ,
+        "baseGoodsCode":"BG0000002",
+        "auditResourceId": "",
+        "name":"审核商品名称",
+        "sellerMainName":"11111",
+        "managerGroupName":"22222222",
+        "firstAuditStatus": 2,
+        "firstOperator":"初审人",
+        "firstAuditCreateTime":"2017-05-05",
+        "secondAuditStatus": 4,
+        "secondAuditCreateTime":"2017-06-06",
+        "secondOperator":"复审人",
+        "skuCostArray":[
+          {
+            "id": 1,
+            "skuCode": "100_1230",
+            "properties": [
+              {
+                "pvName": "属性一"
+              },
+              {
+                "pvName": "属性二"
+              }
+            ],
+              "preCostPrice":12,
+              "postCostPrice":13,
+              "adjustType": 1,
+              "status": 1
+            },
+          {
+            "id": 1,
+            "skuCode": "100_1236",
+            "properties": [],
+            "preCostPrice":12,
+            "postCostPrice":13,
+            "adjustType": 0,
+            "status": 0
+          }
+        ],
+        "effectiveDate":"2017-08-20",
+        "reason":"价格上涨",
+        "action": 1,
+        "comment": "供货价太高 拒绝原因",
+        "auditTime": "2017-06-06"
+      }
+    ]
+  }
+}

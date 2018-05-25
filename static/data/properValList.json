@@ -1,0 +1,19 @@
+{
+  "code":"1",
+  "data":{
+    "rows":[
+      {
+        "id": 123,
+        "name": "品牌",
+        "propertyNames":"品牌；生产厂家"
+      },
+      {
+        "id": 1234,
+        "name": "品4牌",
+        "propertyNames":"品牌33；生产厂家"
+      }
+
+    ],
+    "total":80
+  }
+}
